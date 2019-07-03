@@ -63,7 +63,7 @@ NONE. There are 3 executables one for each supported OS platform:
 - Press enter to close the application
 - You will notice two new files in the same folder with the executable
   - Most important is 'dna-/date/-extracted.json'. It should be emailed to emearsupport-dnac-activation@cisco.com for valdiation
-  - The other one is a 'dna-/date/.json' file detailing the information gathered. Its generated localy and can be deleted
+  - The other one is a 'dna-/date/.json' file detailing the information gathered. It's generated localy and can be deleted
 
 **For Linux OS:**
 - Download the dnactcheck_linux from the Release Tab
@@ -77,10 +77,10 @@ NONE. There are 3 executables one for each supported OS platform:
 - Press enter to close the application
 - You will notice two new files in the same folder with the executable
   - Most important is 'dna-/date/-extracted.json'. It should be emailed to emearsupport-dnac-activation@cisco.com for valdiation
-  - The other one is a 'dna-/date/.json' file detailing the information gathered. Its generated localy and can be deleted
+  - The other one is a 'dna-/date/.json' file detailing the information gathered. It's generated localy and can be deleted
 
 **For Mac OS:**
-- Download the dnaactchec_kmac from the Release Tab
+- Download the dnaactcheck_mac from the Release Tab
 - Run the executable: ```./actcheckmac```
   - if the app is not executed, verify if the execute option is set, chmod +x actcheckmac
 - Provide the hostname and credentials
@@ -91,7 +91,7 @@ NONE. There are 3 executables one for each supported OS platform:
 - Press enter to close the application
 - You will notice two new files in the same folder with the executable
   - Most important is 'dna-/date/-extracted.json'. It should be emailed to emearsupport-dnac-activation@cisco.com for valdiation
-  - The other one is a 'dna-/date/.json' file detailing the information gathered. Its generated localy and can be deleted
+  - The other one is a 'dna-/date/.json' file detailing the information gathered. It's generated localy and can be deleted
 
 
 ## Authors & Maintainers
